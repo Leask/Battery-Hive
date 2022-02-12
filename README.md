@@ -21,4 +21,3 @@ This project is `not for commercial use`.
 - [Battery tray for IKEA Skadis (8xAA + 8xAAA) by mplacona](https://www.thingiverse.com/thing:3772318)
 - [Battery dispenser dual : AAA & AA by fafabienman](https://www.thingiverse.com/thing:3358129)
 - [Battery Holder AAA + AA + CR2032 by aJ_Berlin](https://www.thingiverse.com/thing:4656007)
-- 
